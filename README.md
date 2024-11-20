@@ -7,15 +7,12 @@ Here’s a revamped and visually appealing version of your GitHub README:
 
 ---
 
+<!-- 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gimindu&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gimindu&theme=gruvbox&margin-w=15" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+-->
 
 ---
 
@@ -47,7 +44,11 @@ Here’s a revamped and visually appealing version of your GitHub README:
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gimindu&theme=gruvbox&margin-w=15" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gimindu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
