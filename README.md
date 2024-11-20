@@ -40,6 +40,8 @@ Here’s a revamped and visually appealing version of your GitHub README:
 </p>
 
 ---
+
+<!-- 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gimindu&theme=gruvbox&margin-w=15" alt="GitHub Profile Trophy" />
