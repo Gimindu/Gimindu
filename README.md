@@ -1,4 +1,3 @@
-Here’s a revamped and visually appealing version of your GitHub README:
 
 ---
 
