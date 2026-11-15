@@ -291,28 +291,6 @@ I am a **First-Class Honours Computer Science Graduate** from the **Informatics 
 
 ---
 
-### 📊 GitHub Metrics & Activity
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gimindu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=ff9f1c&text_color=e6edf3" width="100%" alt="Gimindu's GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=e6edf3" width="100%" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gimindu&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=ff9f1c&currStreakLabel=8a2be2" width="90%" alt="GitHub Streak" />
-</p>
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 
